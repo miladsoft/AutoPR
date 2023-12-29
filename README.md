@@ -2,7 +2,7 @@
 
 <img src="website/static/img/AutoPR_Mark_color.png" alt="AutoPR logo" width=300 />
 
-<h1>🌳 AutoPR 🌳</h1>
+<h1>🌳 AutoPR 🌳 </h1>
 
 [![Discord](https://badgen.net/badge/icon/discord?icon=nope&label&color=purple)](https://discord.gg/ykk7Znt3K6)
 [![Docs](https://badgen.net/badge/icon/docs?icon=docs&label&color=blue)](https://docs.autopr.com)
